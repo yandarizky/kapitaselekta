@@ -116,8 +116,8 @@ referensi: https://youtu.be/qN1hS70Ebhw
 
 
 Scan plagiarisme:
- 
 
-1. https://drive.google.com/open?id=0ByZqhNt9UFJ2YjVFVVRFQThvX2M 
 
- 2. https://drive.google.com/open?id=0ByZqhNt9UFJ2MmlIWDBWZ2xuaDA
+1. https://drive.google.com/open?id=0ByZqhNt9UFJ2YjVFVVRFQThvX2M
+
+2. https://drive.google.com/open?id=0ByZqhNt9UFJ2MmlIWDBWZ2xuaDA
