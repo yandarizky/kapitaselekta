@@ -62,6 +62,12 @@ Doc itu merupakan folder yang telah dibuat didalem folder kapita selekta,kuliah 
 **15.** Setelah di commit lakukan push request dengan memasukkan script **git push origin master** lalu enter.
 **16.** Setelah itu cek github untuk memastikan data tersebut sudah berhasil dimasukkan/ditambahkan.
 
+## Kesimpulan
+jadi dari penjelasan-penjelasan dan tutorial diatas maka dapat disimpulkan bahwa penggunaan git bash sangat mudah dan script-script yang digunakan mudah di mengerti dan di hafal.
+
+## Saran
+Saran dari saya yaitu agar terus menggunakan aplikasi git bash ini untuk mengembangkan beberapa project yang akan dibuat kedepannya.
+
 link github: https://github.com/yandarizky/kapitaselekta
 
 
