@@ -50,7 +50,7 @@ Link ini merupakan link dari ssh yang bisa didapatkan di github caranya yaitu se
 4. Jika ingin menambahkan data/file berarti kita akan melakukan push request.push request itu adalah menambahkan file dari folder yang ada di windows ke dalam guthub.
 5. Cara melakukan push request adalah dengan cara buka kembali aplikasi git bash kemudian masukkan scrpt **git add doc/kuliah/pertemuan1.md**
 
-Doc itu merupakan folder yang telah dibuat didalem folder kapita selekta,kuliah merupakan folder yang dibuat di dalam folder doc dan pertemuan1.md merupakan data yang akan ditambah ke github.untuk data yang ditambahkan harus berbentuk MD atay _MarkDown._
+Doc itu merupakan folder yang telah dibuat didalem folder kapita selekta,kuliah merupakan folder yang dibuat di dalam folder doc dan pertemuan1.md merupakan data yang akan ditambah ke github.untuk data yang ditambahkan harus berbentuk MD atau _MarkDown._
 
 1. Setelah itu lakukan commit dengan masukkan script **git commit –m &quot;pertemuan1&quot;** lalu enter.
 2. Setelah di commit lakukan push request dengan memasukkan script **git push origin master** lalu enter.
